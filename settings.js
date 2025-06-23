@@ -48,7 +48,7 @@ FOOTER_SONG2:  process.env.FOOTER_SONG2  || '> *© ᴘᴏᴡᴇʀᴅ ʙʏ ᴅᴀ
 FOOTER_VIDEO2:  process.env.FOOTER_VIDEO2  || '> *© ᴘᴏᴡᴇʀᴅ ʙʏ ᴅᴀʀᴋ ᴛᴇᴄʜ ᴢᴏɴᴇ™❗*',
 FOOTER_CSONG:  process.env.FOOTER_CSONG  || '*© ᴘᴏᴡᴇʀᴅ ʙʏ ᴅᴀʀᴋ ᴛᴇᴄʜ ᴢᴏɴᴇ™❗*',
 CHANEL_LINK:  process.env.CHANEL_LINK  || '*https://whatsapp.com/channel/0029VbAYmQkGufJ5e0ZOQX41*',
-LOGO: process.env.LOGO === undefined ? 'https://files.catbox.moe/nk9i3y.jpg' : process.env.LOGO,   
+LOGO: process.env.LOGO === undefined ? 'https://files.catbox.moe/qntaex.jpg' : process.env.LOGO,   
 JID: process.env.JID || "120363418887684728@newsletter",
 LANG: process.env.LANG === undefined ? "SL" : process.env.LANG,
 MAX_SIZE: 500
